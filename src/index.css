@@ -1,0 +1,23 @@
+@import 'tailwindcss';
+
+.nmnm{
+    position: fixed;
+    height: 500px;
+    width: 200px;
+    background-color: red;
+    border: 2px solid black;
+}
+
+.opy{
+    opacity: 50%;
+}
+
+.nmn{
+    position: fixed;
+    left: 630px;
+    top: 10px;
+    height: 550px;
+    width: 400px;
+    background-color: red;
+    border-radius: 5%;
+}
