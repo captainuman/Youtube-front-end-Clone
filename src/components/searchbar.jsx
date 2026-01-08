@@ -55,7 +55,7 @@ const Searchbar = () => {
     />
 
     <button className="border rounded-r-full w-12 h-9 flex items-center justify-center hover:bg-gray-100">
-      <img className="w-5 h-4" src="/src/images/search.png" alt="search" />
+      <img className="w-5 h-4" src="/images/search.png" alt="search" />
     </button>
 
     <img
