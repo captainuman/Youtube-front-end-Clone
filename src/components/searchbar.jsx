@@ -26,12 +26,12 @@ const Searchbar = () => {
     <img
       onClick={() => setShowSidebar(prev => !prev)}
       className="p-2 rounded-full w-9 sm:w-10 hover:bg-gray-200 cursor-pointer"
-      src="/src/images/options.png"
+      src="/images/options.png"
       alt="menu"
     />
 
     <Link to="/" className="flex items-center gap-1">
-      <img className="w-7 sm:w-8" src="/src/images/youtube.png" alt="logo" />
+      <img className="w-7 sm:w-8" src="/images/youtube.png" alt="logo" />
       <h1 className="hidden sm:block font-semibold text-lg sm:text-xl">
         YOUTUBE <sup>in</sup>
       </h1>
@@ -61,7 +61,7 @@ const Searchbar = () => {
     <img
       onClick={() => alert('Voice search not implemented')}
       className="w-9 sm:w-10 bg-gray-200 ml-3 p-2 rounded-full cursor-pointer"
-      src="/src/images/mic.png"
+      src="/images/mic.png"
       alt="mic"
     />
   </div>
@@ -70,7 +70,7 @@ const Searchbar = () => {
   <div className="md:hidden">
     <img
       className="w-9 p-2 rounded-full hover:bg-gray-200 cursor-pointer"
-      src="/src/images/search.png"
+      src="/images/search.png"
       alt="search"
     />
   </div>
@@ -88,7 +88,7 @@ const Searchbar = () => {
     <img
       onClick={() => setShowNotif(!showNotif)}
       className="w-9 sm:w-10 p-2 rounded-full hover:bg-gray-200 cursor-pointer"
-      src="/src/images/notification.png"
+      src="/images/notification.png"
       alt="notifications"
     />
 
