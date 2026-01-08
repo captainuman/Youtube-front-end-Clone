@@ -1,10 +1,10 @@
 import { NavLink } from 'react-router-dom'
 
 const navItems = [
-  { to: '/', label: 'Home', icon: '/src/images/home.png' },
-  { to: '/shorts', label: 'Shorts', icon: '/src/images/shorts.png' },
-  { to: '/subscriptions', label: 'Subscriptions', icon: '/src/images/subs.png' },
-  { to: '/you', label: 'You', icon: '/src/images/profile.png' },
+  { to: '/', label: 'Home', icon: 'images/home.png' },
+  { to: '/shorts', label: 'Shorts', icon: 'images/shorts.png' },
+  { to: '/subscriptions', label: 'Subscriptions', icon: 'images/subs.png' },
+  { to: '/you', label: 'You', icon: 'images/profile.png' },
 ]
 
 const Navbar = () => {
