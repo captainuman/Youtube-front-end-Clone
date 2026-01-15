@@ -31,7 +31,7 @@ const Searchbar = () => {
     />
 
     <Link to="/" className="flex items-center gap-1">
-      <img className="w-7 sm:w-8" src="images/youtube.png" alt="logo" />
+      <img className="w-7 sm:w-8" src="/images/youtube.png" alt="logo" />
       <h1 className="hidden sm:block font-semibold text-lg sm:text-xl">
         YOUTUBE <sup>in</sup>
       </h1>
