@@ -5,7 +5,7 @@
     "id" : 1,
     "category": "Songs"
 },{
-   "src" :"videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
+   "src" :"/videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
     "title" : "URL shortner in next js",
     "des" : "dfj" ,
     "category" : "Songs",
@@ -19,92 +19,92 @@
     "id" : 3
 },
 {
-   "src" :"videos/1 CSS Selectors MasterClass _ Sigma Web Development Course - Tutorial _17(480P).mp4",
+   "src" :"/videos/1 CSS Selectors MasterClass _ Sigma Web Development Course - Tutorial _17(480P).mp4",
     "title" : "AWS intruduction 3",
     "des" : "A simple, responsive web app that displays multiple links on a single profile page. It allows users to share social media, websites, and portfolios through one clean, mobile-friendly interface, built using modern front-end practices." ,
     "id" : 4
 },
 {
-   "src" : "videos/1 CSS Selectors MasterClass _ Sigma Web Development Course - Tutorial _17(480P).mp4",
+   "src" : "/videos/1 CSS Selectors MasterClass _ Sigma Web Development Course - Tutorial _17(480P).mp4",
     "title" : "AWS intruduction 2",
     "des" : "A simple, responsive web app that displays multiple links on a single profile page. It allows users to share social media, websites, and portfolios through one clean, mobile-friendly interface, built using modern front-end practices." ,
     "id" : 5
 },
 {
-   "src" :"videos/1 CSS Selectors MasterClass _ Sigma Web Development Course - Tutorial _17(480P).mp4",
+   "src" :"/videos/1 CSS Selectors MasterClass _ Sigma Web Development Course - Tutorial _17(480P).mp4",
     "title" : "AWS intruduction",
     "des" : "A simple, responsive web app that displays multiple links on a single profile page. It allows users to share social media, websites, and portfolios through one clean, mobile-friendly interface, built using modern front-end practices." ,
     "id" : 6
 },
 {
-   "src" :"videos/1 CSS Selectors MasterClass _ Sigma Web Development Course - Tutorial _17(480P).mp4",
+   "src" :"/videos/1 CSS Selectors MasterClass _ Sigma Web Development Course - Tutorial _17(480P).mp4",
     "title" : "next js intruduction 3",
     "des" : "A simple, responsive web app that displays multiple links on a single profile page. It allows users to share social media, websites, and portfolios through one clean, mobile-friendly interface, built using modern front-end practices." ,
     "id" : 7
 },
 {
-   "src" :"videos/1 CSS Selectors MasterClass _ Sigma Web Development Course - Tutorial _17(480P).mp4",
+   "src" :"/videos/1 CSS Selectors MasterClass _ Sigma Web Development Course - Tutorial _17(480P).mp4",
     "title" : "next js intruduction 2",
     "des" : "A simple, responsive web app that displays multiple links on a single profile page. It allows users to share social media, websites, and portfolios through one clean, mobile-friendly interface, built using modern front-end practices." ,
     "id" : 8
 },
 {
-   "src" : "videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
+   "src" : "/videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
     "title" : "next js intruduction",
     "des" : "A simple, responsive web app that displays multiple links on a single profile page. It allows users to share social media, websites, and portfolios through one clean, mobile-friendly interface, built using modern front-end practices." ,
     "id" : 9
 },
 {
-   "src" :"videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
+   "src" :"/videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
     "title" : "React js intruduction 3",
     "des" : "A simple, responsive web app that displays multiple links on a single profile page. It allows users to share social media, websites, and portfolios through one clean, mobile-friendly interface, built using modern front-end practices." ,
     "category" : "Songs",
     "id" : 10
 },
 {
-   "src" :"videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
+   "src" :"/videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
     "title" : "React js intruduction 2",
     "des" : "A simple, responsive web app that displays multiple links on a single profile page. It allows users to share social media, websites, and portfolios through one clean, mobile-friendly interface, built using modern front-end practices." ,
     "category" : "Songs",
     "id" : 11
 },
 {
-   "src" :"videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
+   "src" :"/videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
     "title" : "React js intruduction",
     "des" : "A simple, responsive web app that displays multiple links on a single profile page. It allows users to share social media, websites, and portfolios through one clean, mobile-friendly interface, built using modern front-end practices." ,
     "id" : 12
 },
 {
-   "src" :"videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
+   "src" :"/videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
     "title" : "javascript intruduction 3",
     "des" : "A simple, responsive web app that displays multiple links on a single profile page. It allows users to share social media, websites, and portfolios through one clean, mobile-friendly interface, built using modern front-end practices." ,
     "id" : 13
 },{
-   "src" :"videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
+   "src" :"/videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
     "title" : "javascript intruduction 2",
     "des" : "A simple, responsive web app that displays multiple links on a single profile page. It allows users to share social media, websites, and portfolios through one clean, mobile-friendly interface, built using modern front-end practices." ,
     "id" : 14
 },
 {
-   "src" :"videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
+   "src" :"/videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
     "title" : "javascript intruduction",
     "des" : "A simple, responsive web app that displays multiple links on a single profile page. It allows users to share social media, websites, and portfolios through one clean, mobile-friendly interface, built using modern front-end practices." ,
     "id" : 15
 },
 {
-   "src" :"videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
+   "src" :"/videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
     "title" : "html list and table",
     "des" : "A simple, responsive web app that displays multiple links on a single profile page. It allows users to share social media, websites, and portfolios through one clean, mobile-friendly interface, built using modern front-end practices.",
     "id" : 16 
 },
 {
-   "src" :"videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
+   "src" :"/videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
     "title" : "Html forms",
     "des" : "A simple, responsive web app that displays multiple links on a single profile page. It allows users to share social media, websites, and portfolios through one clean, mobile-friendly interface, built using modern front-end practices." ,
     "id" : 17
 },
 {
-   "src" :"videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
+   "src" :"/videos/Advanced JavaScript _ Sigma Web Development Course - Tutorial _82(480P).mp4",
     "title" : "Animation css",
     "des" : "A simple, responsive web app that displays multiple links on a single profile page. It allows users to share social media, websites, and portfolios through one clean, mobile-friendly interface, built using modern front-end practices.",
     "id" : 18 
